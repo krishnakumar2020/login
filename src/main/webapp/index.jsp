@@ -94,7 +94,7 @@ https://templatemo.com/tm-516-known
                               <div class="caption">
                                    <div class="container">
                                         <div class="col-md-6 col-sm-12">
-                                             <h1>Start your journey with our practical courses</h1>
+                                             <h1>Start your journey with our practical onlinecourses</h1>
                                              <h3>Our online courses are built in partnership with technology leaders and are designed to meet industry demands.</h3>
                                              <a href="#courses" class="section-btn btn btn-default smoothScroll">Take a course</a>
                                         </div>
